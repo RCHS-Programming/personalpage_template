@@ -55,12 +55,13 @@ p {
 
 /* Top section of the webpage */
 .header {
-    background-color: #ffb198;
+    background-color: #ffb198;   /* Use Secondary color */
     color: #ffffff;
     text-align: center;
-    font-size: 20px;
+    font-size: 32px;
     padding: 15px;
 }
+
 
 /* Navigation section of the webpage */
 .menu ul {
