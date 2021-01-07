@@ -21,15 +21,12 @@ The webpage will contain four sections: the top section is the `header`, the mid
 ```
     <body>
         <div class="header">
-        
         </div>
         
         <div class="row">
-        
         </div>
         
         <div class="footer">
-        
         </div>
     </body>
 ```
