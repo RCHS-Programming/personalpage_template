@@ -15,6 +15,22 @@ There are two font styles chosen so far: Lucida Sans and Courier New. As each we
 - **TO DO** Search [CSS fonts](https://www.w3.org/Style/Examples/007/fonts.en.html) for fonts to choose from and the accepted default if it is not supported. Replace the `font-family` with your desired font. 
 
 
-
+## Create Your HTML Sections
+The webpage will contain four sections: the top section is the `header`, the middle section will be a `row` and contains the menu and then the page contents, and finally the bottom section is the `footer`. 
+- **TO DO** In the `index.html` file, locate the `body` tag and add the following: 
+```
+    <body>
+        <div class="header">
+        
+        </div>
+        
+        <div class="row">
+        
+        </div>
+        
+        <div class="footer">
+        
+        </div>
+```
 
 From this project, you can branch off to add extra pages. At least one page should be devoted to your own projects you have made. 
