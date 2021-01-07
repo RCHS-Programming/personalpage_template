@@ -31,6 +31,7 @@ The webpage will contain four sections: the top section is the `header`, the mid
         <div class="footer">
         
         </div>
+    </body>
 ```
 
 From this project, you can branch off to add extra pages. At least one page should be devoted to your own projects you have made. 
