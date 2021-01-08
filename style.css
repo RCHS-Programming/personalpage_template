@@ -89,6 +89,11 @@ p {
 }
 
 /* Set the color for the "back to top" links */
+.home a {
+    color: #ffb198;   /* Use Secondary color */
+    text-decoration: none;
+}
+
 .home a:hover {
     color: #e7717d;   /* Use Main Block color */
 }
